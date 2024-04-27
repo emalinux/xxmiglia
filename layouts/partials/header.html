@@ -1,0 +1,26 @@
+<header class="header">
+  <div class="header__title">
+    <a class="navbar-brand" href=""> <img src="{{ ((resources.Get "images/image.jpeg").Fill "370x124").RelPermalink}}" alt="" width="370" height="124"></a>
+    <a href="{{ "" | absLangURL }}">{{ .Site.Title }}</a>
+  </div>
+  <h2><a href="http://localhost:1313/" target="_self">HOME</a></h2>
+  <h2><a href="http://localhost:1313/tags/camere" target="_self">CAMERE</a></h2>
+  <h2><a href="http://localhost:1313/tags/servizi/" target="_self">SERVIZI</a></h2>
+  <h2><a href="http://localhost:1313/posts/servizi-contatti/" target="_self">CONTATTI</a></h2>
+  <h2><a href="http://localhost:1313/posts/struttura/" target="_self">GALLERY</a></h2>
+ <ul class="headerNav__items"> <a class="navbar-brand" href="">
+      <div class="headerNav">
+      <li>
+        <a href="{{ "search" | absURL }}">
+          <svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none"
+            stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="8"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+        </a>
+      </li>
+    </ul>
+  </div>
+</header>
+
+

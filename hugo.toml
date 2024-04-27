@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'en-us'
+title = 'Agriturismo  "La Ciapeleta"'
+paginate = 9
+favicon = "images/favicon.ico"
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+
+
+
