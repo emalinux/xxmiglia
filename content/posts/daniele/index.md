@@ -2,7 +2,7 @@
 title: "Patrizia, Gianfranco e Daniele"
 date: 2024-04-22T11:45:03+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['storia','ciapeleta','agriturismo']
 # tags:
 #   - tagA
