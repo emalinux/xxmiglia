@@ -3,7 +3,7 @@ title: "Galleria Fotografica - Video"
 date: 2024-04-21T18:48:53+02:00
 image: "image.jpeg"
 draft: false
-tags: ['ciapeleta', service']
+tags: ['ciapeleta', service]
 # tags:
 #   - tagA
 #   - tagB
