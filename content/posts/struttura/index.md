@@ -3,7 +3,7 @@ title: "Immagini della Ciapeleta"
 date: 2024-04-20T20:54:44+02:00
 image: "image.jpeg"
 draft: false
-tags: ['storia','ciapeleta','agriturismo','servizi']
+tags: ['storia','ciapeleta','agriturismo','service']
 # tags:
 #   - tagA
 #   - tagB
