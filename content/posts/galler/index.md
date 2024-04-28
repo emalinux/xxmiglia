@@ -32,5 +32,3 @@ Una carrellata di meravigliose immagini della "Ciapeleta", realizzate in diverse
 
 ----------
 
-{{< youtube hvWSg6NblSU >}}
-
