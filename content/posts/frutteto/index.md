@@ -2,7 +2,7 @@
 title: "Il nostro frutteto"
 date: 2024-04-23T20:34:55+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['servizi']
 # tags:
 #   - tagA
