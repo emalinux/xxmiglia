@@ -2,7 +2,7 @@
 title: "Le Nostre Camere: Olivina"
 date: 2024-04-26T10:49:30+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['camere']
 # tags:
 #   - tagA
