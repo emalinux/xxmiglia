@@ -2,7 +2,7 @@
 title: "Servizi e Contatti"
 date: 2024-04-26T15:55:10+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['listino','contatti','servizi']
 # tags:
 #   - tagA
