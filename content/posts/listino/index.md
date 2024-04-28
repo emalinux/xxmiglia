@@ -2,7 +2,7 @@
 title: "Listino & Regolamento"
 date: 2024-04-26T12:46:18+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['listino','contatti','camere']
 params:
   author: Manuel
