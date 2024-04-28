@@ -2,7 +2,7 @@
 title: "Mercato"
 date: 2024-04-24T19:08:13+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['servizi']
 # tags:
 #   - tagA
