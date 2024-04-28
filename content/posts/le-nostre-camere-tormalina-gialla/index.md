@@ -2,7 +2,7 @@
 title: "Le Nostre Camere: La Tormalina Gialla"
 date: 2024-04-25T17:30:25+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['camere']
 
 # tags:
