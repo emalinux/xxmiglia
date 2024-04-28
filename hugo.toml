@@ -2,6 +2,7 @@ baseURL = 'https://xxmiglia.netlify.app/'
 languageCode = 'en-us'
 title = 'Agriturismo  "La Ciapeleta"'
 paginate = 9
+enableEmoji = true
 favicon = "images/favicon.ico"
 
 [taxonomies]
