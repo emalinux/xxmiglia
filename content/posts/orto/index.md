@@ -2,7 +2,7 @@
 title: "Il nostro orto"
 date: 2024-04-25T12:35:34+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['servizi']
 # tags:
 #   - tagA
