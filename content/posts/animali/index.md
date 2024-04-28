@@ -2,7 +2,7 @@
 title: "Amici Animali!"
 date: 2024-04-22T19:59:14+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['ciapeleta','agriturismo']
 # tags:
 #   - tagA
