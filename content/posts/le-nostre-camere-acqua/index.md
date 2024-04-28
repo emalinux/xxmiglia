@@ -2,7 +2,7 @@
 title: "Le Nostre Camere:  Acqua Marina"
 date: 2024-04-25T18:21:42+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['camere']
 # tags:
 #   - tagA
