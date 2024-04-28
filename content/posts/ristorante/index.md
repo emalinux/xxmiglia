@@ -2,7 +2,7 @@
 title: "Ristorante... e mercato!"
 date: 2024-04-25T15:21:43+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['servizi']
 # tags:
 #   - tagA
