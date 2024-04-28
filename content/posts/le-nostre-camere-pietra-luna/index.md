@@ -2,7 +2,7 @@
 title: "Le Nostre Camere: Pietra di Luna"
 date: 2024-04-26T11:09:30+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['camere']
 # tags:
 #   - tagA
