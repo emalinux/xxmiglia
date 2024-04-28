@@ -25,4 +25,4 @@ Immagini della Ciapeleta, una piccola panoramica del nostro ingresso, sala da pr
   {{< figure src="/images/miste/struttura/11.jpg" >}}
 {{< /gallery >}}
 
-... e qui qualche bel panorama e una **ripresa aerea con drone!** [vai alla Galleria Fotografica](http://localhost:1313/posts/galler/)
+... e qui qualche bel panorama e una **ripresa aerea con drone!** [vai alla Galleria Fotografica](https://xxmiglia.netlify.app/posts/struttura/)
