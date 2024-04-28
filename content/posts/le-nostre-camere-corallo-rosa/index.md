@@ -2,7 +2,7 @@
 title: "Le Nostre Camere: La Corallo Rosa"
 date: 2024-04-25T17:02:03+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['camere']
 
 # tags:
