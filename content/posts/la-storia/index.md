@@ -2,7 +2,7 @@
 title: "La Storia del nostro Agriturismo"
 date: 2024-04-26T16:44:03+02:00
 image: "image.jpeg"
-draft: true
+draft: false
 tags: ['storia','ciapeleta','agriturismo']
 # tags:
 #   - tagA
