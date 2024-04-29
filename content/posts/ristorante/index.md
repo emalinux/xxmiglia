@@ -1,5 +1,5 @@
 ---
-title: "Ristorante... e mercato!"
+title: "Ristorante"
 date: 2024-04-25T15:21:43+02:00
 image: "image.jpeg"
 draft: false
@@ -9,9 +9,9 @@ tags: ['service']
 #   - tagB
 ---
 
-#### Il Ristorante della Ciapeleta!
+#### Il Ristorante della Ciapeleta
 I nostri piatti sono preparati **rigorosamente** freschi ogni giorno, usando la maggior parte dei nostri prodotti. Abbondante la nostra varietà di ortaggi e frutta, pasta e dolci fatti in casa, olio, vino ecc.
-> **NB**: Per tutti i residenti e non, siamo sul mercato di [Ventimiglia](https://www.comune.ventimiglia.im.it/it-it/home) nei giorni _martedi_, _giovedi_ e _sabato_ per vendere i nostri prodotti coltivati nel rispetto dell'ambiente.
+> **NB**: Per tutti i residenti e non della zona di [Ventimiglia](https://www.comune.ventimiglia.im.it/it-it/home) nei giorni _martedi_, _giovedi_ e _sabato_ (fino alle ore 13) siamo a disposizione per vendere i nostri prodotti coltivati nel rispetto dell'ambiente, direttamente in azienda!
 
 Vuoi saperne di più? 
 - Guarda la pagina del [Mercato](http://localhost:1313/posts/mercato/)

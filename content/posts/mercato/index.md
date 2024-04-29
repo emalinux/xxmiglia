@@ -1,5 +1,5 @@
 ---
-title: "Mercato"
+title: "Vendita prodotti in Azienda"
 date: 2024-04-24T19:08:13+02:00
 image: "image.jpeg"
 draft: false
@@ -9,7 +9,7 @@ tags: ['service']
 #   - tagB
 ---
 
-Alcune immagini direttamente dal [Mercato](http://localhost:1313/posts/ristorante/) di [Ventimiglia](https://www.comune.ventimiglia.im.it/it-it/home):
+Alcune immagini dei prodotti di produzione propria:
 
 {{< gallery >}}
   {{< figure src="/images/miste/mercato/1.jpg" >}}
