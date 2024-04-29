@@ -26,7 +26,7 @@ Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](ht
 Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua). 
 > **Note**: **Vino** a parte!
 
-- 20 euro (solo per chi fa' la mezza pensione) a persona.
+- 25 euro (solo per chi fa' la mezza pensione) a persona.
 - Prezzi per bambini, in base all'età.
 - Struttura per disabili.  
 - La Ciapeleta si trova soli **600** metri dal mare!
@@ -42,7 +42,7 @@ Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua).
    - limitare il volume degli apparati televisivi e radiofonici e il
    volume della propria voce dopo le ore 23.00.
    
-   - non lasciare incostuditi oggetti di valore.
+   - non lasciare incustoditi oggetti di valore.
 
 ## Pagamenti:   
 
