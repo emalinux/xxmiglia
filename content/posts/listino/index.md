@@ -14,7 +14,7 @@ params:
 I prezzi sono con colazione inclusa,
 bassa/media/alta stagione e ponti.
 ##### Nel periodo estivo è gradita la prenotazione settimanale.
-Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](https://it.wikipedia.org/wiki/Monte_Carlo)
+Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](/post/servi-contatti/)
 
 
 |Bassa Stagione|Media Stagione|Alta Stagione-Ponti|
@@ -31,6 +31,8 @@ Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua).
 - Struttura per disabili.  
 - La Ciapeleta si trova soli **600** metri dal mare!
 - Soggiorni settimanali 15% sconto escluso festivi e mese di agosto
+- 10% sconto su vacanze settimanali no Luglio/Agosto festività ponti ecc.
+- 15% da 10 gg in poi
 - In occasione di eventi speciali come il Gran Premio di F1 di Monaco, e in ricorrenza delle festività Natalizie e Pasquali o ponti, il preziario di riferimento è quello dell' Alta Stagione _**(16 giugno - 15 settembre)**_
 
  ## Gentile ospite, per una serena convivenza:
