@@ -14,7 +14,7 @@ params:
 I prezzi sono con colazione inclusa,
 bassa/media/alta stagione e ponti.
 ##### Nel periodo estivo è gradita la prenotazione settimanale.
-Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](/post/servi-contatti/)
+Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](/post/servizi-contatti/)
 
 
 |Bassa Stagione|Media Stagione|Alta Stagione-Ponti|
