@@ -25,3 +25,16 @@ Alcune immagini dei prodotti di produzione propria:
   {{< figure src="/images/miste/mercato/11.jpg" >}}
   {{< figure src="/images/miste/mercato/12.jpg" >}}
  {{< /gallery >}}
+
+{{< gallery >}}
+  {{< figure src="/images/miste/propria/1.jpeg" >}}
+  {{< figure src="/images/miste/propria/2.jpeg" >}}
+  {{< figure src="/images/miste/propria/3.jpeg" >}}
+  {{< figure src="/images/miste/propria/4.jpeg" >}}
+  {{< figure src="/images/miste/propria/5.jpeg" >}}
+  {{< figure src="/images/miste/propria/6.jpeg" >}}
+  {{< figure src="/images/miste/propria/7.jpeg" >}}
+  {{< /gallery >}}
+
+  ------
+{{< youtube _FN56I-NNCM >}}
