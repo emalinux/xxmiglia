@@ -33,6 +33,8 @@ Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua).
 - Soggiorni settimanali 15% sconto escluso festivi e mese di agosto
 - 10% sconto su vacanze settimanali no Luglio/Agosto festività ponti ecc.
 - 15% da 10 gg in poi
+- All'occorrenza le camere triple/quadruple possono essere occupate da 2 persone col prezzo adeguato
+- **Nessun Supplemento animali**, escluso eventuali danni.
 - In occasione di eventi speciali come il Gran Premio di F1 di Monaco, e in ricorrenza delle festività Natalizie e Pasquali o ponti, il preziario di riferimento è quello dell' Alta Stagione _**(16 giugno - 15 settembre)**_
 
  ## Gentile ospite, per una serena convivenza:
