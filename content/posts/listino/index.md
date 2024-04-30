@@ -35,6 +35,10 @@ Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua).
 - 15% da 10 gg in poi
 - All'occorrenza le camere triple/quadruple possono essere occupate da 2 persone col prezzo adeguato
 - **Nessun Supplemento animali**, escluso eventuali danni.
+- Non gettare nel WC corpi estranei
+- Gli asciugamani si cambiano all'esigenza ogni 3/4 giorni, le lenzuola ogni settimana
+- Le pulizie sono settimanali
+- La saletta cena/colazioni è accessibile dalle 06 alle 10, poi si riapre alla sera per la cena
 - In occasione di eventi speciali come il Gran Premio di F1 di Monaco, e in ricorrenza delle festività Natalizie e Pasquali o ponti, il preziario di riferimento è quello dell' Alta Stagione _**(16 giugno - 15 settembre)**_
 
  ## Gentile ospite, per una serena convivenza:
