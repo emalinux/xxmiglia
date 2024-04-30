@@ -12,6 +12,7 @@ tags: ['service']
 #### Il Ristorante della Ciapeleta
 I nostri piatti sono preparati **rigorosamente** freschi ogni giorno, usando la maggior parte dei nostri prodotti. Abbondante la nostra varietà di ortaggi e frutta, pasta e dolci fatti in casa, olio, vino ecc.
 > **NB**: Per tutti i residenti e non della zona di [Ventimiglia](https://www.comune.ventimiglia.im.it/it-it/home) nei giorni _martedi_, _giovedi_ e _sabato_ (fino alle ore 13) siamo a disposizione per vendere i nostri prodotti coltivati nel rispetto dell'ambiente, [direttamente in Azienda](/posts/produzione-propria)!
+
 Vuoi saperne di più? 
 - Guarda la pagina della [Vendita diretta in Azienda](/posts/produzione-propria)
 - Guarda la pagina del [Nostro Orto](/posts/orto/)
