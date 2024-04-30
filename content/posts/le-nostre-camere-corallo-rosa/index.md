@@ -26,4 +26,4 @@ Alcune immagini delle nostre splendide camere:
   {{< figure src="/images/miste/corallo-rosa/6.jpg" >}}
 {{< /gallery >}}
 
-..non trovi quello che cerchi?  [Guarda le altre camere](http://localhost:1313/tags/camere)!
+..non trovi quello che cerchi?  [Guarda le altre camere](/tags/camere)!
