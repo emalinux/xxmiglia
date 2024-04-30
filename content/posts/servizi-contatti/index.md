@@ -15,10 +15,10 @@ tags: ['listino','contatti','servizi']
 
 ### Tutte le camere sono dotate di:
 
-- Aria Condizionata
-- Riscaldamento Autonomo
-- TV Satellitare
-- Internet a banda larga
+- :snowflake: Aria Condizionata
+- :sunny: Riscaldamento Autonomo
+- :tv: TV Satellitare
+- :signal_strength: Internet a banda larga
 
 Inoltre troverete un magnifico giardino, un comodo parcheggio e naturalmente i prodotti di [nostra produzione!](/posts/ristorante/)
 
