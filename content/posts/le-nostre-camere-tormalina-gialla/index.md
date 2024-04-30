@@ -24,4 +24,4 @@ Alcune immagini delle nostre splendide camere:
   {{< figure src="/images/miste/tormalina-gialla/4.jpg" >}}
 {{< /gallery >}}
 
-...non trovi quello che cerchi?  [Guarda le altre camere](http://localhost:1313/tags/camere)!
+...non trovi quello che cerchi?  [Guarda le altre camere](https://agriturismociapeleta.net/tags/camere)!
