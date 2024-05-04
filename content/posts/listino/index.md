@@ -12,7 +12,7 @@ params:
 ---
 I prezzi sono con **_colazione inclusa_**,
 bassa/media/alta stagione e ponti.
-> :warning: **NB:** il prezzo e riferito  al max degli occupanti, può essere inferiore in base alle persone.
+> :warning: **NB:** il prezzo è riferito  al max degli occupanti, può essere inferiore in base alle persone.
 ##### Nel periodo estivo è gradita la prenotazione settimanale.
 Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](/post/servizi-contatti/)
 
