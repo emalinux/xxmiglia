@@ -33,7 +33,7 @@ La [Ciapeleta](/) si trova a pochi KM di distanza sia dalla stazione ferroviaria
 
 ### Info e Contatti Scriveteci all'indirizzo
 
-- :envelope: <informazioni@agriturismo-ciapeleta.net>
+- :envelope: <info@agriturismociapeleta.net>
 
 Oppure chiamaci direttamente ai numeri di seguito riportati:
 
