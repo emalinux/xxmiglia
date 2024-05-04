@@ -12,7 +12,7 @@ tags: ['camere']
 |--------|--------|--------|
 |  Euro 160  |  Euro 170 |  Euro 180 |
 
-2 camere matrimoniali + letto a castello con bagno privato e comfort 4-6 persone.
+2 camere matrimoniali + letto singolo con bagno privato e comfort 4-6 persone.
 
 Alcune immagini delle nostre splendide camere:
 
