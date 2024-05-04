@@ -12,7 +12,7 @@ tags: ['camere']
 |--------|--------|--------|
 |  Euro 120  |  Euro 130 |  Euro 140 |
 
-Matrimoniale + letto singolo con bagno privato e comfort.
+Matrimoniale + 2 letti singoli con bagno privato e comfort max 4 persone
 
 Alcune immagini delle nostre splendide camere:
 
