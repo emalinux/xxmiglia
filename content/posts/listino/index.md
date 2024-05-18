@@ -13,6 +13,19 @@ params:
 I prezzi sono con **_colazione inclusa_**,
 bassa/media/alta stagione e ponti.
 > :warning: **NB:** il prezzo è riferito  al max degli occupanti, può essere inferiore in base alle persone.
+
+#### Tabella Prezzi camere
+
+|Numero di persone|Colazione inclusa|Prezzo Minimo|Prezzo Massimo|
+|--------|--------|--------|------|
+| 1 | si| 60|80|
+|2| si|80|100|
+|3|si|100|120|
+|4|si|120|140|
+|5|si|140|160|
+
+> :warning: **NB:** i prezzi si intendono per l'occupazione di una camera
+
 ##### Nel periodo estivo è gradita la prenotazione settimanale.
 Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](/post/servizi-contatti/)
 
@@ -23,7 +36,7 @@ Per altre esigenze siamo a vostra disposizione e nella pagina dei  [Contatti](/p
 
 > :warning: **NB:** In **Ogni camera** troverete una tabella come questa con i prezzi relativi.
 
-Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua). 
+Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua) a 25€
 > :warning: **NB**: **Vino** a parte!
 
 - 25 euro (solo per chi fa' la mezza pensione) a persona.
@@ -40,6 +53,13 @@ Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua).
 - :broom: Le pulizie sono settimanali
 - La saletta cena/colazioni è accessibile dalle 06 alle 10, poi si riapre alla sera per la cena
 - In occasione di eventi speciali come il Gran Premio di F1 di Monaco, e in ricorrenza delle festività Natalizie e Pasquali o ponti, il preziario di riferimento è quello dell' Alta Stagione _**(16 giugno - 15 settembre)**_
+
+##### Sconti:
+
+- Settimana : 10%
+- 10 giorni o più 15%
+
+>:warning: **NB:** | **NO** Luglio | **NO** Agosto| **NO** Festività|
 
 ## Gentile ospite, per una serena convivenza:
 
