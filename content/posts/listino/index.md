@@ -20,9 +20,7 @@ bassa/media/alta stagione e ponti.
 |--------|--------|--------|------|
 | 1 | si| 60|80|
 |2| si|80|100|
-|3|si|100|120|
-|4|si|120|140|
-|5|si|140|160|
+
 
 > :warning: **NB:** i prezzi si intendono per l'occupazione di una camera
 
