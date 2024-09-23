@@ -9,9 +9,10 @@ tags: ['camere']
 #   - tagA
 #   - tagB
 ---
-|Bassa Stagione|Media Stagione|Alta Stagione-Ponti|
-|--------|--------|--------|
-|  Euro 100  |  Euro 110 |  Euro 120 |
+|Numero di persone|Colazione inclusa|Prezzo Minimo|Prezzo Massimo|
+|--------|--------|--------|------|
+| 1 | si| 60|80|
+|2| si|80|100|
 
 Letto 1 piazza 1\2 + letto singolo con bagno privato + comfort
 
