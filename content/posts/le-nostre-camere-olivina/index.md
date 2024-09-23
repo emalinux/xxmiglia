@@ -8,9 +8,13 @@ tags: ['camere']
 #   - tagA
 #   - tagB
 ---
-|Bassa Stagione|Media Stagione|Alta Stagione-Ponti|
-|--------|--------|--------|
-|  Euro 160  |  Euro 170 |  Euro 180 |
+|Numero di persone|Colazione inclusa|Prezzo Minimo|Prezzo Massimo|
+|--------|--------|--------|------|
+| 1 | si| 60|80|
+|2| si|80|100|
+|3|si|100|120|
+|4|si|120|140|
+|5|si|140|160|
 
 2 camere matrimoniali + letto singolo con bagno privato e comfort 4-6 persone.
 
