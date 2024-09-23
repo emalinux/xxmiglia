@@ -13,9 +13,6 @@ tags: ['camere']
 |--------|--------|--------|------|
 | 1 | si| 60|80|
 |2| si|80|100|
-|3|si|100|120|
-|4|si|120|140|
-|5|si|140|160|
 
  Letto 1 piazza 1\2 + letto singolo con bagno privato + comfort
 
