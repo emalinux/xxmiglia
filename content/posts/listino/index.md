@@ -43,9 +43,7 @@ Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua) a 25€
 - :baby: Prezzi per bambini, in base all'età.
 - :wheelchair: Struttura per disabili.  
 - La Ciapeleta si trova soli **600** metri dal mare!
-- Soggiorni settimanali 15% sconto escluso festivi e mese di agosto
 - 10% sconto a prtire da una settimana -  no Luglio/Agosto festività ponti ecc.
-- 15% da 10 gg in poi
 - All'occorrenza le camere triple/quadruple possono essere occupate da 2 persone col prezzo adeguato
 - :guide_dog: **Nessun Supplemento animali**, escluso eventuali danni.
 - :warning: Non gettare nel WC corpi estranei
@@ -57,7 +55,6 @@ Cena serale completa (antipasti, primo, secondo, dolce, caffè, acqua) a 25€
 ##### Sconti:
 
 - a partire da una settimana : 10%
-- 10 giorni o più 15%
 
 >:warning: **NB:** | **NO** Luglio | **NO** Agosto| **NO** Festività|
 
