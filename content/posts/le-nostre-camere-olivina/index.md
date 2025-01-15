@@ -13,7 +13,7 @@ tags: ['camere']
 | 1 | si| 60|80|
 |2| si|80|100|
 |3|si|100|120|
-|4|si|120|160|
+|4|si|140|160|
 |5|si|160|180|
 
 2 camere matrimoniali + letto singolo con bagno privato e comfort max 5 persone.
