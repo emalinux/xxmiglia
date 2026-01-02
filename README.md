@@ -35,7 +35,7 @@ Sito web ufficiale dell’**Agriturismo Ciapéleta**, struttura ricettiva immers
 ├── static/         # Asset statici (immagini, favicon, ecc.)
 ├── config.yaml     # Configurazione principale
 └── README.md
-
+```
 ---
 
 ## 🚀 Filosofia
@@ -47,7 +47,6 @@ Un sito statico ben progettato è:
 - più sicuro
 - più veloce
 - più duraturo nel tempo
-```
 
 ---
 
