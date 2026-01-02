@@ -52,8 +52,9 @@ Un sito statico ben progettato è:
 
 ## 👨‍💻 Realizzazione
 
-Progetto realizzato da **Assembler Computer**  
-Consulenza informatica, sviluppo web e soluzioni digitali su misura.
+Realizzato con ❤️ da [Manuel – Assembler Computer](https://www.assemblercomputer.net/)
+
+Contatti diretti? [📧 emalinux77@gmail.com](mailto:emalinux77@gmail.com)
 
 ---
 
